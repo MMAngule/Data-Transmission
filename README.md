@@ -7,7 +7,7 @@ In this task, we had to get random data(as sensor data),place it in json format 
 ### Table of Contents
 ***
 
-- [***Data-Relay***](#sra-assignment-data-relay)
+- [***Data-Transmission***](#sra-assignment-data-relay)
     - [Table of Contents](#table-of-contents)
     - [About Project](#about-project)
       - [Tech Stack :](#tech-stack-)
@@ -19,7 +19,6 @@ In this task, we had to get random data(as sensor data),place it in json format 
     - [Results and Demo](#results-and-demo)
     - [Future Work](#future-work)
     - [Troubleshooting](#troubleshooting)
-    - [Contributors](#contributors)
     - [Acknowledgement and Resources](#acknowledgement-and-resources)
   
 ***
@@ -65,8 +64,8 @@ Used C language for coding, used json-c, mosquitto, pthread libraries
     ├── air_pressure - Notepad.png       # Image related to data of Air Pressure
     ├── device-1.png        # Image related to text files in device 1 folder
     ├── device-2.png        # Image related to text files in device 2 folder
-    ├── kart folder.png     # Image related to files and folders present in main directory folder
-    ├── sra-data-relay.mp4    # Video related to running of the code
+    ├── folder.png     # Image related to files and folders present in main directory folder
+    ├── data-transmission.mp4    # Video related to running of the code
     └── README.md 
     
 
