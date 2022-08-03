@@ -120,7 +120,8 @@ void mosq_message(struct mosquitto *mosq, void *obj, const struct mosquitto_mess
 	parsed_data((char *)(msg->payload));
 }
 
-int main() {
+int main()
+{
 	int a;
 
 	mosquitto_lib_init();
