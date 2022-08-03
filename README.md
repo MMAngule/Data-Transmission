@@ -166,23 +166,12 @@ Run the following Command to subscribe,parse and generate text files:
 ***
 * Had Segmentation Fault previously but now working fine
 
-***
-### Contributors
-***
-> Mentors
 
-Vedant Paranjape
-
-   
-> Members
-
-[Mayuri Angule](https://github.com/MMAngule) 
 
 ***
 ### Acknowledgement and Resources
 ***
 
-* [SRA VJTI](http://sra.vjti.info/) Eklavya 2020
 * Youtube Videos
 
 * [Mosquitto site](https://mosquitto.org/api/files/mosquitto-h.html)
